@@ -101,7 +101,7 @@ def main():
     print(f"Total de aprobados (al menos uno): {total}")
 
 
-    # EJERCICIO 8: Stock de productos
+    # ---EJERCICIO 8---
     print("\n--- EJERCICIO 8 ---")
     stock = {"lapiz": 10, "papel": 50}
     
@@ -131,7 +131,7 @@ def main():
                 print("El producto ya existe (usá la opción 2).")
 
 
-    # EJERCICIO 9: Agenda con tuplas como claves
+    # ---EJERCICIO 9---
     print("\n--- EJERCICIO 9 ---")
     agenda = {
         ("lunes", "10:00"): "Reunión",
@@ -145,7 +145,7 @@ def main():
     print(f"Evento: {evento}")
 
 
-    # EJERCICIO 10: Invertir diccionario
+    # ---EJERCICIO 10---
     print("\n--- EJERCICIO 10 ---")
     paises = {"Argentina": "Buenos Aires", "Chile": "Santiago", "España": "Madrid"}
     print(f"Original: {paises}")
